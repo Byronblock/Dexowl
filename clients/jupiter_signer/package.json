@@ -1,0 +1,10 @@
+{
+  "name": "solana-signer",
+  "version": "1.0.0",
+  "description": "Solana transaction signer for Jupiter API",
+  "main": "jupiter_signer.js",
+  "dependencies": {
+    "@solana/web3.js": "^1.87.3",
+    "bs58": "^5.0.0"
+  }
+}
