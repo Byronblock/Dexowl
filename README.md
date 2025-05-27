@@ -1,4 +1,8 @@
 # Dex_owl 项目文档
+## 使用准备
+* coinmarketcap申请api
+* 钱包私钥
+* 企业微信bot
 
 ## 1. 项目概述
 
